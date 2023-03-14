@@ -25,8 +25,6 @@ The Dublin chapter of ServerlessDays is unique, organised by locals and not run 
     <img src="/jeff-conf.png"/>
 </div>
 
-We follow and enforce the ServerlessDays Code of Conduct.
-
 Learn more at the ServerlessDays website. <a target="_blank" href="https://serverlessdays.io/">serverlessdays.io/</a>
 
 # ServerlessDays Chapter's
