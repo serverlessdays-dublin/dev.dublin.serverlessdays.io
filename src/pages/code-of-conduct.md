@@ -2,15 +2,6 @@
 layout: ../layouts/MarkdownLayout.astro
 title: Code of Conduct
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-6DE8E1DZJM"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-6DE8E1DZJM');
-</script>
 
 # Code of Conduct
 
