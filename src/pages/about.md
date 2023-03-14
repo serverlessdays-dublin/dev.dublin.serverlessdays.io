@@ -20,7 +20,7 @@ The Dublin chapter of ServerlessDays is unique, organised by locals and not run 
   <li><b>Accessible:</b> financially and physically accessible to the community</li>
   <li><b>Representative:</b> representative of the broader community within which it exists</li>
 </ul>
-
+<br />
 <div class="container jeff-conf">
     <img src="/jeff-conf.png"/>
 </div>
