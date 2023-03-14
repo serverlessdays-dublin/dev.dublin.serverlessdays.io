@@ -6,7 +6,7 @@
 
 .container-mascots {
   margin: 0 auto;
-  max-width: 60%;
+  max-width: 70%;
 
   @include breakpoint(medium) {
     padding: 0 2rem;
@@ -17,6 +17,6 @@
   }
 
   &.stretch {
-    max-width: 60%;
+    max-width: 70%;
   }
 }
