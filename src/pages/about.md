@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/MarkdownLayout.astro
-title: Code of Conduct
+title: About
 ---
 
 # About ServerlessDays
