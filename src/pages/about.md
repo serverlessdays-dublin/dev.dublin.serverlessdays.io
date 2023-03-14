@@ -118,7 +118,6 @@ If you city isn’t listed above and you’re interested in organising a Serverl
 
   .jeff-conf {
     margin: auto;
-    height: 665px;
     width: 800px;
   }
 
