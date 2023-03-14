@@ -64,6 +64,9 @@ ServerlessDays Hamburg<br />
 ServerlessDays Helsinki<br />
 <a target="_blank" href="https://helsinki.serverlessdays.io/">helsinki.serverlessdays.io</a>
 
+<!-- ServerlessDays Ireland<br />
+<a target="_blank" href="https://ireland.serverlessdays.io/">ireland.serverlessdays.io</a> -->
+
 ServerlessDays İstanbul<br />
 <a target="_blank" href="https://istanbul.serverlessdays.io/">istanbul.serverlessdays.io</a>
 
