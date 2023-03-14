@@ -7,7 +7,7 @@
 .container-social {
   margin: 0 auto;
   padding: 0 calc(2rem / 2);
-  max-width: 100%;
+  max-width: 50%;
 
   @include breakpoint(medium) {
     padding: 0 2rem;
@@ -15,7 +15,7 @@
 
   @include breakpoint(large) {
     padding: 0 calc(2rem / 2);
-    max-width: 1200px;
+    max-width: 300px;
   }
 
   &.stretch {
